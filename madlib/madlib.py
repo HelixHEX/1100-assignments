@@ -9,7 +9,7 @@
 # Your madlib must collect at least 6 words!
 
 verb1 = print("Enter a verb: ")
-#test 3
+#test 12
 print("")
 place = print("Now give me a place: ")
 
